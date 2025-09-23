@@ -20,12 +20,12 @@ public class Result {
     // e.g., regNo, studentName
     private String regNo;
     private String studentName;
-    private int sub1Mse;
-    private int sub1Ese;
-    private int sub2Mse;
-    private int sub2Ese;
-    private int sub3Mse;
-    private int sub3Ese;
-    private int sub4Mse;
-    private int sub4Ese;
+    private int sub1_mse;
+    private int sub1_ese;
+    private int sub2_mse;
+    private int sub2_ese;
+    private int sub3_mse;
+    private int sub3_ese;
+    private int sub4_mse;
+    private int sub4_ese;
 }
